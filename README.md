@@ -39,14 +39,4 @@ It is designed to promote **self-awareness**, reduce **stress**, and encourage *
 | **JavaScript (JS)** | Quiz logic, pop-ups, and interactivity |
 | **PL/SQL (planned)** | For future database integration |
 | **VS Code** | Code editor used |
-| **GitHub Pages** | Hosting and deployment |
-
----
-
-## ⚙️ Installation & Setup
-To run **MindEase** locally:
-
-1. **Clone the repository**
-   ```bash
-   git clon
 
